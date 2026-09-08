@@ -9,7 +9,7 @@ import (
 	"strings"
 )
 
-const unsplashAccessKey = "cjjFLji7SSrb6iQ01Et3Z9iHFq9CmSosMQkl1lK3Ha4"
+const unsplashAccessKey = "ajjFLji7SSrb6iQ01Et3Z9iHFq9CmSosMQkl1lK3Ha4"
 
 type unsplashPhoto struct {
 	Urls struct {
